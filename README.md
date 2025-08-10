@@ -3,7 +3,7 @@
 I'm a student studying software engineering at university.
 
 ## Currently working on:
-I'm currently working on [Steptastic](https://apps.apple.com/gb/app/steptastic/id6477454001)
+I've previously worked on [Steptastic](https://apps.apple.com/gb/app/steptastic/id6477454001), and am now working on a new alarm app Easy Wake which detects the user's sleep patterns, and wakes the user up if the app deems they are in a lighter sleep stage.
 
 
 <!--
